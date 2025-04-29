@@ -1,4 +1,4 @@
 evil0ctal/douyin_tiktok_download_api
 
 
-amancevice/superset:latest
+amancevice/superset
