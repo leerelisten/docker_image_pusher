@@ -3,3 +3,4 @@ evil0ctal/douyin_tiktok_download_api
 
 amancevice/superset
 flink:1.14.5-scala_2.12
+redis:6-alpine
