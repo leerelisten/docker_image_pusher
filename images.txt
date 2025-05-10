@@ -9,3 +9,4 @@ btpanel/baota:lnmp
 seatunnel/seatunnel
 docker.elastic.co/elasticsearch/elasticsearch:8.6.1
 apache/atlas:latest
+lghbeta/finebi-docker
