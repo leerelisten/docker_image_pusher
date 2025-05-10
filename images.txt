@@ -5,3 +5,4 @@ amancevice/superset
 flink:1.14.5-scala_2.12
 redis:6-alpine
 btpanel/baota:latest
+btpanel/baota:lnmp
