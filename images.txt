@@ -8,3 +8,4 @@ btpanel/baota:latest
 btpanel/baota:lnmp
 apache/seatunnel
 apache/elasticsearch
+apache/atlas
