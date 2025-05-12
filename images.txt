@@ -7,5 +7,4 @@ redis:6-alpine
 btpanel/baota:latest
 btpanel/baota:lnmp
 docker.elastic.co/elasticsearch/elasticsearch:8.6.1
-lghbeta/finebi-docker
 flink:1.19.1-scala_2.12-java8
