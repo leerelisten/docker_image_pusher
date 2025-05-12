@@ -10,3 +10,4 @@ seatunnel/seatunnel
 docker.elastic.co/elasticsearch/elasticsearch:8.6.1
 apache/atlas:latest
 lghbeta/finebi-docker
+flink:1.19.1-scala_2.12-java8
