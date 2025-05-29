@@ -8,5 +8,4 @@ btpanel/baota:latest
 btpanel/baota:lnmp
 docker.elastic.co/elasticsearch/elasticsearch:8.6.1
 flink:1.19.1-scala_2.12-java8
-apache/atlas
 lutinglt/superset-zh
