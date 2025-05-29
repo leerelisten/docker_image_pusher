@@ -29,9 +29,13 @@ jobs:
         docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
         for line in $(cat images.txt); do
           docker pull $line
+          if [ $? -ne 0 ]; then
+            echo "Failed to pull image $line, skipping."
+            continue
+          fi
           image_name_tag=$(echo $line | awk -F'/' '{print $NF}')
           new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$image_name_tag"
-          echo "docker tag $image $new_image"
+          echo "docker tag $line $new_image"
           docker tag $line $new_image
           echo "docker push $new_image"
           docker push $new_image
