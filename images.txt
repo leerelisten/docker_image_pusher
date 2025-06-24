@@ -11,3 +11,5 @@ flink:1.19.1-scala_2.12-java8
 lutinglt/superset-zh
 redis:latest
 apache/doris
+mysql:8.0.18
+mysql:5.7
