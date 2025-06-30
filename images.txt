@@ -1,3 +1,1 @@
-solr:latest
-zookeeper:latest
-harisekhon/hbase:latest
+apache-atlas:latest
