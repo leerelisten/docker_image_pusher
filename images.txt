@@ -1,5 +1,3 @@
-node:18-alpine
-nginx:alpine
-maven:3.8.4-openjdk-17-slim
-openjdk:17-slim
-openjdk:8
+solr:latest
+zookeeper:latest
+harisekhon/hbase:latest
