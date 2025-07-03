@@ -1,1 +1,1 @@
-atlas/athanalysis:latest
+dinkydocker/dinky-standalone-server:1.2-flink1.19
