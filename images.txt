@@ -1,1 +1,1 @@
-dinkydocker/dinky-standalone-server:1.2-flink1.19
+bitnami/kafka:3.7
