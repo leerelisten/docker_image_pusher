@@ -1,1 +1,2 @@
-dinkyhub/dinky:1.2.0
+dinkydocker/dinky:1.1.0-flink1.18
+flink:1.18.1-scala_2.12-java8
