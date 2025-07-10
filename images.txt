@@ -1,2 +1,1 @@
-dinkydocker/dinky:1.1.0-flink1.18
-flink:1.18.1-scala_2.12-java8
+n8nio/n8n
