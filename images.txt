@@ -1,1 +1,2 @@
-akyakya/doris-mcp-server
+redis:7
+postgres:16
