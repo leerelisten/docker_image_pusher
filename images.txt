@@ -1,2 +1,1 @@
-node:20-bookworm-slim
-node:16-alpine
+python:3.11.13-slim-bookworm
