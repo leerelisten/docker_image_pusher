@@ -1,2 +1,2 @@
-redis:7
-postgres:16
+node:20-bookworm-slim
+node:16-alpine
