@@ -1,1 +1,1 @@
-python:3.11.13-slim-bookworm
+superset:5.0.0
