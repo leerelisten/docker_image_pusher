@@ -1,1 +1,2 @@
-apache/superset:v5.0.0
+prom/prometheus:latest
+grafana/grafana:latest
