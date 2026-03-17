@@ -1,1 +1,1 @@
-doris-mcp-server:latest
+n8n:latest
