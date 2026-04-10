@@ -1,1 +1,1 @@
-doris-mcp-server:latest
+apache/amoro
