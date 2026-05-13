@@ -1,1 +1,1 @@
-apache/amoro
+n8n:latest
